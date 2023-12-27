@@ -10,7 +10,10 @@ const reviewSchema = new mongoose.Schema<IReview>(
         },
         rating: {
             type: Number,
-            enum: [1, 2, 3, 4, 5],
+            validate: {
+                validator: (value: number) => value >= 1 && value <= 5,
+                message: "Rating must be between 1 and 5",
+            },
             required: [true, "Rating is required"],
         },
         review: {
