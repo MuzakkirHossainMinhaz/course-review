@@ -141,13 +141,13 @@ The application implements proper error handling throughout, using a global erro
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/Porgramming-Hero-web-course/l2b2a3-course-review-MuzakkirHossainMinhaz.git
+    git clone https://github.com/MuzakkirHossainMinhaz/course-review.git
     ```
 
 2. Navigate to the project directory
 
     ```bash
-    cd l2b2a3-course-review-MuzakkirHossainMinhaz
+    cd course-review
     ```
 
 3. Install dependencies
