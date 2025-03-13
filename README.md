@@ -186,8 +186,8 @@ We welcome contributions! If you want to contribute to this project, please foll
 
 ## About the Author
 
--   [github.com/MuzakkirHossainMinhaz](github.com/MuzakkirHossainMinhaz)
--   [linkedin.com/in/muzakkir-hossain-minhaz](linkedin.com/in/muzakkir-hossain-minhaz)
+-   [github.com/MuzakkirHossainMinhaz](https://github.com/MuzakkirHossainMinhaz)
+-   [linkedin.com/in/muzakkir-hossain-minhaz](https://linkedin.com/in/muzakkir-hossain-minhaz)
 
 ## Acknowledgements
 
