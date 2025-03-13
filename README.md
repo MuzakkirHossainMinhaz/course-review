@@ -117,7 +117,7 @@ The application implements proper error handling throughout, using a global erro
 
 6. Update a Course - PUT `/api/courses/:courseId`
 
-    - it supports partial update with dynamic upadate
+    - it supports partial update with dynamic update
     - send a request in _JSON_ format with the mentioned fields in the request body
     - returns updated course with success message
 
